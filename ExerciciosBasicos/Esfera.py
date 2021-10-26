@@ -1,4 +1,4 @@
-from vpython import *
+from vpython impor *
 
 esf = sphere(pos=vector(0,0,0), 
              color=vector(1,2,5), 
