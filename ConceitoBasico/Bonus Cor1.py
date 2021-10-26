@@ -1,6 +1,6 @@
 ## Exemplo 1
 
-'''print('\033[1;36;45mOlá, Mundo\33[m')'''          #===> Caso eu queira apenas nas palvras especificas só colocar novamente a barra \33[m'
+'''print('\033[1;36;45mOlá, Mundo\33[m')'''          #===> Caso eu queira apenas nas palavras especificas só colocar novamente a barra \33[m'
 
 ## Exemplo 2
 
