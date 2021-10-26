@@ -3,7 +3,7 @@
 
 '''nome = str(input('Qual o seu nome ? '))             #======> Exemplo simples sobre condição. (== é igual)
 if nome == 'Magdiel':
-    print('Que nome de cara gostoso da porra')
+    print('Que nome diferente')
 else:
     print('Eita nome comum daa... ecaa')
 print('Boa tarde, muito prazer {} !'.format(nome))'''
